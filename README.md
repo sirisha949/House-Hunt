@@ -13,6 +13,8 @@ Backend logic handled by Node.js and Express.js
 MongoDB used for storing listing information
 
 Image support (e.g., background.jpg included in project)
+
+
 TECH STACK
 
 
@@ -26,6 +28,8 @@ PREREQUISITES
 Node.js (v14 or later)
 MongoDB installed and running locally or via a cloud service (e.g., MongoDB Atlas)
 Git
+
+
 PROJECT STRUCTURE
 
 
@@ -41,7 +45,9 @@ HouseHunt-main/
 ├── package.json         
 ├── playground-1.mongodb.js   
 ├── playground-2.mongodb.js
-└── .vscode/                  
+└── .vscode/
+
+
 FUTURE  ENHANCEMENTS
 
 
